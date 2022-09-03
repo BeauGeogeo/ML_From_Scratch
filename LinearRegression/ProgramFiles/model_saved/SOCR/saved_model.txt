@@ -1,0 +1,10 @@
+Date : 31/08/2022
+
+MODEL
+
+Parameter Theta value after training : [0.04971239 0.49864857]
+
+MODEL TRAINED WITH THE FOLLOWING PARAMETERS AND HYPERPARAMETERS
+
+n_iter : 3000
+learning_rate : 0.001

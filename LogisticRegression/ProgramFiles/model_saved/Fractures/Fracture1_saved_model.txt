@@ -1,0 +1,10 @@
+Date : 16/08/2021
+
+MODEL
+
+Parameter Theta value after training : [  9.50651088 -13.92033931]
+
+MODEL TRAINED WITH THE FOLLOWING PARAMETERS AND HYPERPARAMETERS
+
+n_iter : 200000
+learning_rate : 0.01
